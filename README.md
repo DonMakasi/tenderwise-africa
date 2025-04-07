@@ -4,8 +4,8 @@ TenderWise Africa is a modern web platform designed to help businesses and profe
 
 ## 🚀 Live Demo
 
-👉 [Visit the site on Netlify](https://your-netlify-url.netlify.app)  
-> *(Replace with your actual Netlify link after deployment)*
+👉 [Visit the site on [Netlify](https://your-netlify-url.netlify.app](https://67f375d793910eed2df27a40--tenderwiseafrica.netlify.app/))  
+> 
 
 ---
 
